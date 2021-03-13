@@ -1,0 +1,1 @@
+To use Vivado free on your laptop, please select "WebPack" when installing on your computer

@@ -7,7 +7,7 @@ ECE744 Lab Materials (Spring 2021)
    
 Introduction 
 =======================
-This repository is for students to get access to the `ECE742` Lab materials. 
+This repository is for students to get access to the `ECE744` Lab materials. 
 
 *Notification(important)：
 =======================

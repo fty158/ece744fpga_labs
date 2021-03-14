@@ -12,7 +12,7 @@ This repository is for students to get access to the `ECE742` Lab materials.
 *Notification(important)：
 =======================
 
-If you believe you are familiar with the FPGA and VHDL, instead of the following four simple experiments, you may choose to do an FIR filter design using VHDL. Details can be found in the folder 'FIRfilter'. 
+For those who are familiar with the FPGA and VHDL, instead of the following four simple experiments, you may choose to do an FIR filter design using VHDL. Details can be found in the folder 'FIRfilter'. 
 
 Directory Structure
 =======================

@@ -34,7 +34,7 @@ In the lab report, you have to show evidence of the simulation result, filter de
 report
 ======================
 
-On March 27th, you have to submit a report with the screenshot of the simulation. The lab report has to include the following sections:
+You should submit a report with the screenshot of the simulation. The lab report must include the following sections:
 
      * Introduction
      * procedures

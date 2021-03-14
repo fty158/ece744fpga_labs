@@ -9,6 +9,11 @@ Introduction
 =======================
 This repository is for students to get access to the `ECE742` Lab materials. 
 
+*Notification(important)：
+=======================
+
+If you believe you are familiar with the FPGA and VHDL, instead of the following four simple experiments, you may choose to do an FIR filter design using VHDL. Details can be found in the folder 'FIRfilter'. 
+
 Directory Structure
 =======================
   - BoardSupportPackages: This is to install the board support packages for the NEXYS DDR4 board for VIVADO software tool. Follow the instruction in https://reference.digilentinc.com/vivado/installing-vivado/start (This step is not required since we are only doing the simulation this semester due to the COVID-19)

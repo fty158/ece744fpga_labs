@@ -41,7 +41,7 @@ This laboratory experiment will introduce some concepts of data encryption and c
 
 Lab Report
 ======================
-You are going to write a lab report(or four reports seperately) for the four labs through blackboard. The lab report should include the following sections:
+You are going to write a lab report(or four reports seperately) for the four labs through Blackboard. The lab report should include the following sections:
 
      * Introduction
      * procedures

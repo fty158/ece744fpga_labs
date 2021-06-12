@@ -1,5 +1,5 @@
 ********************************************************
-ECE744/742 Lab Materials (Summer 2021)
+IIT ECE744/742 Lab Materials (Summer 2021)
 ********************************************************
 
 .. contents:: Table of Contents
@@ -7,7 +7,7 @@ ECE744/742 Lab Materials (Summer 2021)
    
 Introduction 
 =======================
-This repository is for students to get access to the `ECE744/ECE742` Lab materials. 
+This repository contains the `ECE744/ECE742` Lab materials. 
 
 *Notification(important)：
 =======================
@@ -23,25 +23,25 @@ Directory Structure
 
 Labs
 ======================
-lab 1
+lab 1 Code Converter
 ----------
 In this lab, you will design and build a simple code converter circuit and simulate it with Vivado. During this laboratory, you will gain experience using the Xilinx Vivado digital circuit development tools.
 
-lab 2
+lab 2 Four-Bit RCA
 ----------
 In this lab, you will design and program a four-bit ripple-carry adder/subtractor circuit using modular design techniques.  All of the necessary VHDL coding concepts and procedures will be introduced in the laboratory and implemented by the experimenter.
 
-lab 8
+lab 8 Traffic Light Logic
 ----------
 In this lab, you will learn how to design Finite State Machines with VHDL. Typically, traffic light control is a field dominated by micro-controllers. Very complex timing of these lights can be handled with some simple software running on off-the-shelf products. For very simple traffic lights, however, it may be possible to implement their timing functionality with simple sequential logic circuits. In this lab, you will design and implement two traffic light controller circuits and simulate it with Vivado.
 
-lab 9
+lab 9 Data Encryption with LSFR
 ----------
-This laboratory experiment will introduce some concepts of data encryption and cryptography and simulate it with Vivado. The student will then be given a set of encrypted ASCII text and will decrypt it using the methods specified in this experiment.
+This laboratory experiment will introduce some concepts of data encryption and cryptography and simulate it with Vivado. The student will then be given a set of encrypted ASCII text and will decrypt it using a Linear Feedback Shift Register (LFSR).
 
 Lab Report
 ======================
-You have to submit a lab report for these four labs through blackboard. The lab report has to include the following sections:
+You are going to write a lab report for these four labs through blackboard. The lab report should include the following sections:
 
      * Introduction
      * procedures

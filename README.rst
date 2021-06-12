@@ -1,5 +1,5 @@
 ********************************************************
-ECE744 Lab Materials (Spring 2021)
+ECE744 Lab Materials (Summer 2021)
 ********************************************************
 
 .. contents:: Table of Contents

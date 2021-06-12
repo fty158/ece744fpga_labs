@@ -23,8 +23,6 @@ Directory Structure
 
 Labs
 ======================
-Short introduction of each lab.
-
 lab 1
 ----------
 In this lab, you will design and build a simple code converter circuit and simulate it with Vivado. During this laboratory, you will gain experience using the Xilinx Vivado digital circuit development tools.

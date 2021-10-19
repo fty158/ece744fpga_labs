@@ -1,5 +1,5 @@
 ********************************************************
-IIT ECE744/742 Lab Materials (Summer 2021)
+IIT ECE744/742 Lab Materials (Fall 2021)
 ********************************************************
 
 .. contents:: Table of Contents

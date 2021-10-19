@@ -50,7 +50,7 @@ You are going to write a lab report(or four reports seperately) for the four lab
      * Reference
      * Appendix(code and screenshots)
 
-Academic Honesty
+Academic Honesty (ACTION REQUIRED)
 ========================
 You must acknowledge your work including figures, codes and writings are belonging to you with your signature on the front page of all submitted reports. If any similarity in the code, comments, customized program behavior, report writings and/or figures are found, both the helper (original work) and the requestor (duplicated/modified work) will be called for academic disciplinary action including failure of this course, and student's advisor/department will be notified.
 
